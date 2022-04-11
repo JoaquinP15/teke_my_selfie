@@ -1,0 +1,38 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:10px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 80px;
+    border: 5px solid white;
+}
+#textbox
+{
+    width: 400px;
+}
+
+body
+{
+    background:rgb(112, 169, 225);
+    background-position: center;
+	background-size: cover;
+}
+
+h1, h4, p, label, h3, button
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+h3
+{
+    font-size: 30px;
+}
